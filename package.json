@@ -1,0 +1,26 @@
+{
+  "name": "jestnodejs",
+  "version": "1.0.0",
+  "description": "exemplos de implementação jest no node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maikonmuniz/jestNodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maikonmuniz/jestNodeJs/issues"
+  },
+  "homepage": "https://github.com/maikonmuniz/jestNodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
